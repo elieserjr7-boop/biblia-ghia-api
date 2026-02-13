@@ -1,0 +1,4576 @@
+{
+  "nome": "Tito",
+  "chapters": [
+    [
+      [
+        {
+          "o": "Παῦλος",
+          "t": "Paul",
+          "tl": "Paulos",
+          "s": "3972",
+          "m": "N-NMS"
+        },
+        {
+          "o": "δοῦλος",
+          "t": "a servant",
+          "tl": "doulos",
+          "s": "1401",
+          "m": "N-NMS"
+        },
+        {
+          "o": "Θεοῦ",
+          "t": "of God",
+          "tl": "Theou",
+          "s": "2316",
+          "m": "N-GMS"
+        },
+        {
+          "o": "ἀπόστολος",
+          "t": "an apostle",
+          "tl": "apostolos",
+          "s": "652",
+          "m": "N-NMS"
+        },
+        {
+          "o": "δὲ",
+          "t": "now",
+          "tl": "de",
+          "s": "1161",
+          "m": "Conj"
+        },
+        {
+          "o": "Ἰησοῦ",
+          "t": "of Jesus",
+          "tl": "Iēsou",
+          "s": "2424",
+          "m": "N-GMS"
+        },
+        {
+          "o": "Χριστοῦ",
+          "t": "Christ",
+          "tl": "Christou",
+          "s": "5547",
+          "m": "N-GMS"
+        },
+        {
+          "o": "κατὰ",
+          "t": "according to",
+          "tl": "kata",
+          "s": "2596",
+          "m": "Prep"
+        },
+        {
+          "o": "πίστιν",
+          "t": "[the] faith",
+          "tl": "pistin",
+          "s": "4102",
+          "m": "N-AFS"
+        },
+        {
+          "o": "ἐκλεκτῶν",
+          "t": "of [the] elect",
+          "tl": "eklektōn",
+          "s": "1588",
+          "m": "Adj-GMP"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "ἐπίγνωσιν",
+          "t": "knowledge",
+          "tl": "epignōsin",
+          "s": "1922",
+          "m": "N-AFS"
+        },
+        {
+          "o": "ἀληθείας",
+          "t": "of [the] truth",
+          "tl": "alētheias",
+          "s": "225",
+          "m": "N-GFS"
+        },
+        {
+          "o": "τῆς",
+          "t": "which [is]",
+          "tl": "tēs",
+          "s": "3588",
+          "m": "Art-GFS"
+        },
+        {
+          "o": "κατ’",
+          "t": "according to",
+          "tl": "kat’",
+          "s": "2596",
+          "m": "Prep"
+        },
+        {
+          "o": "εὐσέβειαν",
+          "t": "godliness",
+          "tl": "eusebeian",
+          "s": "2150",
+          "m": "N-AFS"
+        }
+      ],
+      [
+        {
+          "o": "ἐπ’",
+          "t": "in",
+          "tl": "ep’",
+          "s": "1909",
+          "m": "Prep"
+        },
+        {
+          "o": "ἐλπίδι",
+          "t": "[the] hope",
+          "tl": "elpidi",
+          "s": "1680",
+          "m": "N-DFS"
+        },
+        {
+          "o": "ζωῆς",
+          "t": "of life",
+          "tl": "zōēs",
+          "s": "2222",
+          "m": "N-GFS"
+        },
+        {
+          "o": "αἰωνίου",
+          "t": "eternal",
+          "tl": "aiōniou",
+          "s": "166",
+          "m": "Adj-GFS"
+        },
+        {
+          "o": "ἣν",
+          "t": "which",
+          "tl": "hēn",
+          "s": "3739",
+          "m": "RelPro-AFS"
+        },
+        {
+          "o": "ἐπηγγείλατο",
+          "t": "promised",
+          "tl": "epēngeilato",
+          "s": "1861",
+          "m": "V-AIM-3S"
+        },
+        {
+          "o": "ὁ",
+          "t": "-",
+          "tl": "ho",
+          "s": "3588",
+          "m": "Art-NMS"
+        },
+        {
+          "o": "ἀψευδὴς",
+          "t": "who cannot lie",
+          "tl": "apseudēs",
+          "s": "893",
+          "m": "Adj-NMS"
+        },
+        {
+          "o": "Θεὸς",
+          "t": "God",
+          "tl": "Theos",
+          "s": "2316",
+          "m": "N-NMS"
+        },
+        {
+          "o": "πρὸ",
+          "t": "before",
+          "tl": "pro",
+          "s": "4253",
+          "m": "Prep"
+        },
+        {
+          "o": "χρόνων",
+          "t": "time",
+          "tl": "chronōn",
+          "s": "5550",
+          "m": "N-GMP"
+        },
+        {
+          "o": "αἰωνίων",
+          "t": "eternal",
+          "tl": "aiōniōn",
+          "s": "166",
+          "m": "Adj-GMP"
+        }
+      ],
+      [
+        {
+          "o": "ἐφανέρωσεν",
+          "t": "He revealed",
+          "tl": "ephanerōsen",
+          "s": "5319",
+          "m": "V-AIA-3S"
+        },
+        {
+          "o": "δὲ",
+          "t": "now",
+          "tl": "de",
+          "s": "1161",
+          "m": "Conj"
+        },
+        {
+          "o": "καιροῖς",
+          "t": "[in] seasons",
+          "tl": "kairois",
+          "s": "2540",
+          "m": "N-DMP"
+        },
+        {
+          "o": "ἰδίοις",
+          "t": "[His] own",
+          "tl": "idiois",
+          "s": "2398",
+          "m": "Adj-DMP"
+        },
+        {
+          "o": "τὸν",
+          "t": "in the",
+          "tl": "ton",
+          "s": "3588",
+          "m": "Art-AMS"
+        },
+        {
+          "o": "λόγον",
+          "t": "word",
+          "tl": "logon",
+          "s": "3056",
+          "m": "N-AMS"
+        },
+        {
+          "o": "αὐτοῦ",
+          "t": "of Him",
+          "tl": "autou",
+          "s": "846",
+          "m": "PPro-GM3S"
+        },
+        {
+          "o": "ἐν",
+          "t": "in",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "κηρύγματι",
+          "t": "[the] proclamation",
+          "tl": "kērygmati",
+          "s": "2782",
+          "m": "N-DNS"
+        },
+        {
+          "o": "ὃ",
+          "t": "with which",
+          "tl": "ho",
+          "s": "3739",
+          "m": "RelPro-ANS"
+        },
+        {
+          "o": "ἐπιστεύθην",
+          "t": "have been entrusted",
+          "tl": "episteuthēn",
+          "s": "4100",
+          "m": "V-AIP-1S"
+        },
+        {
+          "o": "ἐγὼ",
+          "t": "I",
+          "tl": "egō",
+          "s": "1473",
+          "m": "PPro-N1S"
+        },
+        {
+          "o": "κατ’",
+          "t": "according to",
+          "tl": "kat’",
+          "s": "2596",
+          "m": "Prep"
+        },
+        {
+          "o": "ἐπιταγὴν",
+          "t": "[the] commandment",
+          "tl": "epitagēn",
+          "s": "2003",
+          "m": "N-AFS"
+        },
+        {
+          "o": "τοῦ",
+          "t": "of the",
+          "tl": "tou",
+          "s": "3588",
+          "m": "Art-GMS"
+        },
+        {
+          "o": "Σωτῆρος",
+          "t": "Savior",
+          "tl": "Sōtēros",
+          "s": "4990",
+          "m": "N-GMS"
+        },
+        {
+          "o": "ἡμῶν",
+          "t": "of us",
+          "tl": "hēmōn",
+          "s": "1473",
+          "m": "PPro-G1P"
+        },
+        {
+          "o": "Θεοῦ",
+          "t": "God",
+          "tl": "Theou",
+          "s": "2316",
+          "m": "N-GMS"
+        }
+      ],
+      [
+        {
+          "o": "Τίτῳ",
+          "t": "To Titus",
+          "tl": "Titō",
+          "s": "5103",
+          "m": "N-DMS"
+        },
+        {
+          "o": "γνησίῳ",
+          "t": "[my] true",
+          "tl": "gnēsiō",
+          "s": "1103",
+          "m": "Adj-DNS"
+        },
+        {
+          "o": "τέκνῳ",
+          "t": "child",
+          "tl": "teknō",
+          "s": "5043",
+          "m": "N-DNS"
+        },
+        {
+          "o": "κατὰ",
+          "t": "according to",
+          "tl": "kata",
+          "s": "2596",
+          "m": "Prep"
+        },
+        {
+          "o": "κοινὴν",
+          "t": "[our] common",
+          "tl": "koinēn",
+          "s": "2839",
+          "m": "Adj-AFS"
+        },
+        {
+          "o": "πίστιν",
+          "t": "faith",
+          "tl": "pistin",
+          "s": "4102",
+          "m": "N-AFS"
+        },
+        {
+          "o": "Χάρις",
+          "t": "Grace",
+          "tl": "Charis",
+          "s": "5485",
+          "m": "N-NFS"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "εἰρήνη",
+          "t": "peace",
+          "tl": "eirēnē",
+          "s": "1515",
+          "m": "N-NFS"
+        },
+        {
+          "o": "ἀπὸ",
+          "t": "from",
+          "tl": "apo",
+          "s": "575",
+          "m": "Prep"
+        },
+        {
+          "o": "Θεοῦ",
+          "t": "God",
+          "tl": "Theou",
+          "s": "2316",
+          "m": "N-GMS"
+        },
+        {
+          "o": "Πατρὸς",
+          "t": "[the] Father",
+          "tl": "Patros",
+          "s": "3962",
+          "m": "N-GMS"
+        },
+        {
+          "o": "Χριστοῦ",
+          "t": "Christ",
+          "tl": "Christou",
+          "s": "5547",
+          "m": "N-GMS"
+        },
+        {
+          "o": "Ἰησοῦ",
+          "t": "Jesus",
+          "tl": "Iēsou",
+          "s": "2424",
+          "m": "N-GMS"
+        },
+        {
+          "o": "τοῦ",
+          "t": "the",
+          "tl": "tou",
+          "s": "3588",
+          "m": "Art-GMS"
+        },
+        {
+          "o": "Σωτῆρος",
+          "t": "Savior",
+          "tl": "Sōtēros",
+          "s": "4990",
+          "m": "N-GMS"
+        },
+        {
+          "o": "ἡμῶν",
+          "t": "of us",
+          "tl": "hēmōn",
+          "s": "1473",
+          "m": "PPro-G1P"
+        }
+      ],
+      [
+        {
+          "o": "Τούτου",
+          "t": "Of this",
+          "tl": "Toutou",
+          "s": "3778",
+          "m": "DPro-GNS"
+        },
+        {
+          "o": "χάριν",
+          "t": "on account",
+          "tl": "charin",
+          "s": "5484",
+          "m": "Prep"
+        },
+        {
+          "o": "ἀπέλιπόν",
+          "t": "I left",
+          "tl": "apelipon",
+          "s": "620",
+          "m": "V-AIA-1S"
+        },
+        {
+          "o": "σε",
+          "t": "you",
+          "tl": "se",
+          "s": "4771",
+          "m": "PPro-A2S"
+        },
+        {
+          "o": "ἐν",
+          "t": "in",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "Κρήτῃ",
+          "t": "Crete",
+          "tl": "Krētē",
+          "s": "2914",
+          "m": "N-DFS"
+        },
+        {
+          "o": "ἵνα",
+          "t": "so that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "τὰ",
+          "t": "the things",
+          "tl": "ta",
+          "s": "3588",
+          "m": "Art-ANP"
+        },
+        {
+          "o": "λείποντα",
+          "t": "lacking",
+          "tl": "leiponta",
+          "s": "3007",
+          "m": "V-PPA-ANP"
+        },
+        {
+          "o": "ἐπιδιορθώσῃ",
+          "t": "you might set in order",
+          "tl": "epidiorthōsē",
+          "s": "1930",
+          "m": "V-ASM-2S"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "καταστήσῃς",
+          "t": "might appoint",
+          "tl": "katastēsēs",
+          "s": "2525",
+          "m": "V-ASA-2S"
+        },
+        {
+          "o": "κατὰ",
+          "t": "in every",
+          "tl": "kata",
+          "s": "2596",
+          "m": "Prep"
+        },
+        {
+          "o": "πόλιν",
+          "t": "town",
+          "tl": "polin",
+          "s": "4172",
+          "m": "N-AFS"
+        },
+        {
+          "o": "πρεσβυτέρους",
+          "t": "elders",
+          "tl": "presbyterous",
+          "s": "4245",
+          "m": "Adj-AMP"
+        },
+        {
+          "o": "ὡς",
+          "t": "as",
+          "tl": "hōs",
+          "s": "5613",
+          "m": "Adv"
+        },
+        {
+          "o": "ἐγώ",
+          "t": "I",
+          "tl": "egō",
+          "s": "1473",
+          "m": "PPro-N1S"
+        },
+        {
+          "o": "σοι",
+          "t": "you",
+          "tl": "soi",
+          "s": "4771",
+          "m": "PPro-D2S"
+        },
+        {
+          "o": "διεταξάμην",
+          "t": "directed",
+          "tl": "dietaxamēn",
+          "s": "1299",
+          "m": "V-AIM-1S"
+        }
+      ],
+      [
+        {
+          "o": "εἴ",
+          "t": "if",
+          "tl": "ei",
+          "s": "1487",
+          "m": "Conj"
+        },
+        {
+          "o": "τίς",
+          "t": "anyone",
+          "tl": "tis",
+          "s": "5100",
+          "m": "IPro-NMS"
+        },
+        {
+          "o": "ἐστιν",
+          "t": "is",
+          "tl": "estin",
+          "s": "1510",
+          "m": "V-PIA-3S"
+        },
+        {
+          "o": "ἀνέγκλητος",
+          "t": "blameless",
+          "tl": "anenklētos",
+          "s": "410",
+          "m": "Adj-NMS"
+        },
+        {
+          "o": "μιᾶς",
+          "t": "of one",
+          "tl": "mias",
+          "s": "1520",
+          "m": "Adj-GFS"
+        },
+        {
+          "o": "γυναικὸς",
+          "t": "wife",
+          "tl": "gynaikos",
+          "s": "1135",
+          "m": "N-GFS"
+        },
+        {
+          "o": "ἀνήρ",
+          "t": "[the] husband",
+          "tl": "anēr",
+          "s": "435",
+          "m": "N-NMS"
+        },
+        {
+          "o": "τέκνα",
+          "t": "children",
+          "tl": "tekna",
+          "s": "5043",
+          "m": "N-ANP"
+        },
+        {
+          "o": "ἔχων",
+          "t": "having",
+          "tl": "echōn",
+          "s": "2192",
+          "m": "V-PPA-NMS"
+        },
+        {
+          "o": "πιστά",
+          "t": "believing",
+          "tl": "pista",
+          "s": "4103",
+          "m": "Adj-ANP"
+        },
+        {
+          "o": "μὴ",
+          "t": "not",
+          "tl": "mē",
+          "s": "3361",
+          "m": "Adv"
+        },
+        {
+          "o": "ἐν",
+          "t": "under",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "κατηγορίᾳ",
+          "t": "accusation",
+          "tl": "katēgoria",
+          "s": "2724",
+          "m": "N-DFS"
+        },
+        {
+          "o": "ἀσωτίας",
+          "t": "of debauchery",
+          "tl": "asōtias",
+          "s": "810",
+          "m": "N-GFS"
+        },
+        {
+          "o": "ἢ",
+          "t": "or",
+          "tl": "ē",
+          "s": "2228",
+          "m": "Conj"
+        },
+        {
+          "o": "ἀνυπότακτα",
+          "t": "insubordinate",
+          "tl": "anypotakta",
+          "s": "506",
+          "m": "Adj-ANP"
+        }
+      ],
+      [
+        {
+          "o": "Δεῖ",
+          "t": "It behooves",
+          "tl": "Dei",
+          "s": "1163",
+          "m": "V-PIA-3S"
+        },
+        {
+          "o": "γὰρ",
+          "t": "for",
+          "tl": "gar",
+          "s": "1063",
+          "m": "Conj"
+        },
+        {
+          "o": "τὸν",
+          "t": "the",
+          "tl": "ton",
+          "s": "3588",
+          "m": "Art-AMS"
+        },
+        {
+          "o": "ἐπίσκοπον",
+          "t": "overseer",
+          "tl": "episkopon",
+          "s": "1985",
+          "m": "N-AMS"
+        },
+        {
+          "o": "ἀνέγκλητον",
+          "t": "blameless",
+          "tl": "anenklēton",
+          "s": "410",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "εἶναι",
+          "t": "to be",
+          "tl": "einai",
+          "s": "1510",
+          "m": "V-PNA"
+        },
+        {
+          "o": "ὡς",
+          "t": "as",
+          "tl": "hōs",
+          "s": "5613",
+          "m": "Adv"
+        },
+        {
+          "o": "Θεοῦ",
+          "t": "God’s",
+          "tl": "Theou",
+          "s": "2316",
+          "m": "N-GMS"
+        },
+        {
+          "o": "οἰκονόμον",
+          "t": "steward",
+          "tl": "oikonomon",
+          "s": "3623",
+          "m": "N-AMS"
+        },
+        {
+          "o": "μὴ",
+          "t": "not",
+          "tl": "mē",
+          "s": "3361",
+          "m": "Adv"
+        },
+        {
+          "o": "αὐθάδη",
+          "t": "self-willed",
+          "tl": "authadē",
+          "s": "829",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "ὀργίλον",
+          "t": "quick-tempered",
+          "tl": "orgilon",
+          "s": "3711",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "πάροινον",
+          "t": "given to wine",
+          "tl": "paroinon",
+          "s": "3943",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "πλήκτην",
+          "t": "a striker",
+          "tl": "plēktēn",
+          "s": "4131",
+          "m": "N-AMS"
+        },
+        {
+          "o": "αἰσχροκερδῆ",
+          "t": "greedy of base gain",
+          "tl": "aischrokerdē",
+          "s": "146",
+          "m": "Adj-AMS"
+        }
+      ],
+      [
+        {
+          "o": "ἀλλὰ",
+          "t": "but",
+          "tl": "alla",
+          "s": "235",
+          "m": "Conj"
+        },
+        {
+          "o": "φιλόξενον",
+          "t": "hospitable",
+          "tl": "philoxenon",
+          "s": "5382",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "φιλάγαθον",
+          "t": "a lover of good",
+          "tl": "philagathon",
+          "s": "5358",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "σώφρονα",
+          "t": "self-controlled",
+          "tl": "sōphrona",
+          "s": "4998",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "δίκαιον",
+          "t": "upright",
+          "tl": "dikaion",
+          "s": "1342",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "ὅσιον",
+          "t": "holy",
+          "tl": "hosion",
+          "s": "3741",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "ἐγκρατῆ",
+          "t": "[and] disciplined",
+          "tl": "enkratē",
+          "s": "1468",
+          "m": "Adj-AMS"
+        }
+      ],
+      [
+        {
+          "o": "ἀντεχόμενον",
+          "t": "holding to",
+          "tl": "antechomenon",
+          "s": "472",
+          "m": "V-PPM/P-AMS"
+        },
+        {
+          "o": "τοῦ",
+          "t": "the",
+          "tl": "tou",
+          "s": "3588",
+          "m": "Art-GMS"
+        },
+        {
+          "o": "κατὰ",
+          "t": "according to",
+          "tl": "kata",
+          "s": "2596",
+          "m": "Prep"
+        },
+        {
+          "o": "τὴν",
+          "t": "the",
+          "tl": "tēn",
+          "s": "3588",
+          "m": "Art-AFS"
+        },
+        {
+          "o": "διδαχὴν",
+          "t": "teaching",
+          "tl": "didachēn",
+          "s": "1322",
+          "m": "N-AFS"
+        },
+        {
+          "o": "πιστοῦ",
+          "t": "faithful",
+          "tl": "pistou",
+          "s": "4103",
+          "m": "Adj-GMS"
+        },
+        {
+          "o": "λόγου",
+          "t": "word",
+          "tl": "logou",
+          "s": "3056",
+          "m": "N-GMS"
+        },
+        {
+          "o": "ἵνα",
+          "t": "that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "δυνατὸς",
+          "t": "able",
+          "tl": "dynatos",
+          "s": "1415",
+          "m": "Adj-NMS"
+        },
+        {
+          "o": "ᾖ",
+          "t": "he may be",
+          "tl": "ē",
+          "s": "1510",
+          "m": "V-PSA-3S"
+        },
+        {
+          "o": "καὶ",
+          "t": "both",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "παρακαλεῖν",
+          "t": "to encourage",
+          "tl": "parakalein",
+          "s": "3870",
+          "m": "V-PNA"
+        },
+        {
+          "o": "ἐν",
+          "t": "with",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "τῇ",
+          "t": "-",
+          "tl": "tē",
+          "s": "3588",
+          "m": "Art-DFS"
+        },
+        {
+          "o": "διδασκαλίᾳ",
+          "t": "teaching",
+          "tl": "didaskalia",
+          "s": "1319",
+          "m": "N-DFS"
+        },
+        {
+          "o": "ὑγιαινούσῃ",
+          "t": "sound",
+          "tl": "hygiainousē",
+          "s": "5198",
+          "m": "V-PPA-DFS"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "τοὺς",
+          "t": "those",
+          "tl": "tous",
+          "s": "3588",
+          "m": "Art-AMP"
+        },
+        {
+          "o": "ἀντιλέγοντας",
+          "t": "contradicting [it]",
+          "tl": "antilegontas",
+          "s": "483",
+          "m": "V-PPA-AMP"
+        },
+        {
+          "o": "ἐλέγχειν",
+          "t": "to convict",
+          "tl": "elenchein",
+          "s": "1651",
+          "m": "V-PNA"
+        }
+      ],
+      [
+        {
+          "o": "Εἰσὶν",
+          "t": "There are",
+          "tl": "Eisin",
+          "s": "1510",
+          "m": "V-PIA-3P"
+        },
+        {
+          "o": "γὰρ",
+          "t": "for",
+          "tl": "gar",
+          "s": "1063",
+          "m": "Conj"
+        },
+        {
+          "o": "πολλοὶ",
+          "t": "many",
+          "tl": "polloi",
+          "s": "4183",
+          "m": "Adj-NMP"
+        },
+        {
+          "o": "‹καὶ›",
+          "t": "also",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "ἀνυπότακτοι",
+          "t": "insubordinate",
+          "tl": "anypotaktoi",
+          "s": "506",
+          "m": "Adj-NMP"
+        },
+        {
+          "o": "ματαιολόγοι",
+          "t": "empty talkers",
+          "tl": "mataiologoi",
+          "s": "3151",
+          "m": "Adj-NMP"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "φρεναπάται",
+          "t": "deceivers",
+          "tl": "phrenapatai",
+          "s": "5423",
+          "m": "N-NMP"
+        },
+        {
+          "o": "μάλιστα",
+          "t": "especially",
+          "tl": "malista",
+          "s": "3122",
+          "m": "Adv"
+        },
+        {
+          "o": "οἱ",
+          "t": "those",
+          "tl": "hoi",
+          "s": "3588",
+          "m": "Art-NMP"
+        },
+        {
+          "o": "ἐκ",
+          "t": "of",
+          "tl": "ek",
+          "s": "1537",
+          "m": "Prep"
+        },
+        {
+          "o": "τῆς",
+          "t": "the",
+          "tl": "tēs",
+          "s": "3588",
+          "m": "Art-GFS"
+        },
+        {
+          "o": "περιτομῆς",
+          "t": "circumcision",
+          "tl": "peritomēs",
+          "s": "4061",
+          "m": "N-GFS"
+        }
+      ],
+      [
+        {
+          "o": "οὓς",
+          "t": "whom",
+          "tl": "hous",
+          "s": "3739",
+          "m": "RelPro-AMP"
+        },
+        {
+          "o": "δεῖ",
+          "t": "it is necessary",
+          "tl": "dei",
+          "s": "1163",
+          "m": "V-PIA-3S"
+        },
+        {
+          "o": "ἐπιστομίζειν",
+          "t": "to silence",
+          "tl": "epistomizein",
+          "s": "1993",
+          "m": "V-PNA"
+        },
+        {
+          "o": "οἵτινες",
+          "t": "who",
+          "tl": "hoitines",
+          "s": "3748",
+          "m": "RelPro-NMP"
+        },
+        {
+          "o": "ὅλους",
+          "t": "whole",
+          "tl": "holous",
+          "s": "3650",
+          "m": "Adj-AMP"
+        },
+        {
+          "o": "οἴκους",
+          "t": "households",
+          "tl": "oikous",
+          "s": "3624",
+          "m": "N-AMP"
+        },
+        {
+          "o": "ἀνατρέπουσιν",
+          "t": "overthrow",
+          "tl": "anatrepousin",
+          "s": "396",
+          "m": "V-PIA-3P"
+        },
+        {
+          "o": "διδάσκοντες",
+          "t": "teaching",
+          "tl": "didaskontes",
+          "s": "1321",
+          "m": "V-PPA-NMP"
+        },
+        {
+          "o": "ἃ",
+          "t": "things that [they]",
+          "tl": "ha",
+          "s": "3739",
+          "m": "RelPro-ANP"
+        },
+        {
+          "o": "μὴ",
+          "t": "not",
+          "tl": "mē",
+          "s": "3361",
+          "m": "Adv"
+        },
+        {
+          "o": "δεῖ",
+          "t": "ought",
+          "tl": "dei",
+          "s": "1163",
+          "m": "V-PIA-3S"
+        },
+        {
+          "o": "αἰσχροῦ",
+          "t": "base",
+          "tl": "aischrou",
+          "s": "150",
+          "m": "Adj-GNS"
+        },
+        {
+          "o": "κέρδους",
+          "t": "gain",
+          "tl": "kerdous",
+          "s": "2771",
+          "m": "N-GNS"
+        },
+        {
+          "o": "χάριν",
+          "t": "for [the] sake of",
+          "tl": "charin",
+          "s": "5484",
+          "m": "Prep"
+        }
+      ],
+      [
+        {
+          "o": "εἶπέν",
+          "t": "Said",
+          "tl": "eipen",
+          "s": "2036",
+          "m": "V-AIA-3S"
+        },
+        {
+          "o": "τις",
+          "t": "one",
+          "tl": "tis",
+          "s": "5100",
+          "m": "IPro-NMS"
+        },
+        {
+          "o": "ἐξ",
+          "t": "of",
+          "tl": "ex",
+          "s": "1537",
+          "m": "Prep"
+        },
+        {
+          "o": "αὐτῶν",
+          "t": "them",
+          "tl": "autōn",
+          "s": "846",
+          "m": "PPro-GM3P"
+        },
+        {
+          "o": "ἴδιος",
+          "t": "own",
+          "tl": "idios",
+          "s": "2398",
+          "m": "Adj-NMS"
+        },
+        {
+          "o": "αὐτῶν",
+          "t": "of them",
+          "tl": "autōn",
+          "s": "846",
+          "m": "PPro-GM3P"
+        },
+        {
+          "o": "προφήτης",
+          "t": "a prophet",
+          "tl": "prophētēs",
+          "s": "4396",
+          "m": "N-NMS"
+        },
+        {
+          "o": "Κρῆτες",
+          "t": "Cretans",
+          "tl": "Krētes",
+          "s": "2912",
+          "m": "N-NMP"
+        },
+        {
+          "o": "ἀεὶ",
+          "t": "[are] always",
+          "tl": "aei",
+          "s": "104",
+          "m": "Adv"
+        },
+        {
+          "o": "ψεῦσται",
+          "t": "liars",
+          "tl": "pseustai",
+          "s": "5583",
+          "m": "N-NMP"
+        },
+        {
+          "o": "κακὰ",
+          "t": "evil",
+          "tl": "kaka",
+          "s": "2556",
+          "m": "Adj-NNP"
+        },
+        {
+          "o": "θηρία",
+          "t": "beasts",
+          "tl": "thēria",
+          "s": "2342",
+          "m": "N-NNP"
+        },
+        {
+          "o": "γαστέρες",
+          "t": "gluttons",
+          "tl": "gasteres",
+          "s": "1064",
+          "m": "N-NFP"
+        },
+        {
+          "o": "ἀργαί",
+          "t": "lazy",
+          "tl": "argai",
+          "s": "692",
+          "m": "Adj-NFP"
+        }
+      ],
+      [
+        {
+          "o": "Ἡ",
+          "t": "The",
+          "tl": "Hē",
+          "s": "3588",
+          "m": "Art-NFS"
+        },
+        {
+          "o": "μαρτυρία",
+          "t": "testimony",
+          "tl": "martyria",
+          "s": "3141",
+          "m": "N-NFS"
+        },
+        {
+          "o": "αὕτη",
+          "t": "this",
+          "tl": "hautē",
+          "s": "3778",
+          "m": "DPro-NFS"
+        },
+        {
+          "o": "ἐστὶν",
+          "t": "is",
+          "tl": "estin",
+          "s": "1510",
+          "m": "V-PIA-3S"
+        },
+        {
+          "o": "ἀληθής",
+          "t": "TRUE",
+          "tl": "alēthēs",
+          "s": "227",
+          "m": "Adj-NFS"
+        },
+        {
+          "o": "δι’",
+          "t": "for",
+          "tl": "di’",
+          "s": "1223",
+          "m": "Prep"
+        },
+        {
+          "o": "ἣν",
+          "t": "which",
+          "tl": "hēn",
+          "s": "3739",
+          "m": "RelPro-AFS"
+        },
+        {
+          "o": "αἰτίαν",
+          "t": "cause",
+          "tl": "aitian",
+          "s": "156",
+          "m": "N-AFS"
+        },
+        {
+          "o": "ἔλεγχε",
+          "t": "rebuke",
+          "tl": "elenche",
+          "s": "1651",
+          "m": "V-PMA-2S"
+        },
+        {
+          "o": "αὐτοὺς",
+          "t": "them",
+          "tl": "autous",
+          "s": "846",
+          "m": "PPro-AM3P"
+        },
+        {
+          "o": "ἀποτόμως",
+          "t": "severely",
+          "tl": "apotomōs",
+          "s": "664",
+          "m": "Adv"
+        },
+        {
+          "o": "ἵνα",
+          "t": "so that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "ὑγιαίνωσιν",
+          "t": "they may be sound",
+          "tl": "hygiainōsin",
+          "s": "5198",
+          "m": "V-PSA-3P"
+        },
+        {
+          "o": "ἐν",
+          "t": "in",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "τῇ",
+          "t": "the",
+          "tl": "tē",
+          "s": "3588",
+          "m": "Art-DFS"
+        },
+        {
+          "o": "πίστει",
+          "t": "faith",
+          "tl": "pistei",
+          "s": "4102",
+          "m": "N-DFS"
+        }
+      ],
+      [
+        {
+          "o": "μὴ",
+          "t": "not",
+          "tl": "mē",
+          "s": "3361",
+          "m": "Adv"
+        },
+        {
+          "o": "προσέχοντες",
+          "t": "giving heed",
+          "tl": "prosechontes",
+          "s": "4337",
+          "m": "V-PPA-NMP"
+        },
+        {
+          "o": "Ἰουδαϊκοῖς",
+          "t": "to Jewish",
+          "tl": "Ioudaikois",
+          "s": "2451",
+          "m": "Adj-DMP"
+        },
+        {
+          "o": "μύθοις",
+          "t": "myths",
+          "tl": "mythois",
+          "s": "3454",
+          "m": "N-DMP"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "ἐντολαῖς",
+          "t": "[the] commandments",
+          "tl": "entolais",
+          "s": "1785",
+          "m": "N-DFP"
+        },
+        {
+          "o": "ἀνθρώπων",
+          "t": "of men",
+          "tl": "anthrōpōn",
+          "s": "444",
+          "m": "N-GMP"
+        },
+        {
+          "o": "ἀποστρεφομένων",
+          "t": "turning away from",
+          "tl": "apostrephomenōn",
+          "s": "654",
+          "m": "V-PPP-GMP"
+        },
+        {
+          "o": "τὴν",
+          "t": "the",
+          "tl": "tēn",
+          "s": "3588",
+          "m": "Art-AFS"
+        },
+        {
+          "o": "ἀλήθειαν",
+          "t": "truth",
+          "tl": "alētheian",
+          "s": "225",
+          "m": "N-AFS"
+        }
+      ],
+      [
+        {
+          "o": "Πάντα",
+          "t": "All things [are]",
+          "tl": "Panta",
+          "s": "3956",
+          "m": "Adj-NNP"
+        },
+        {
+          "o": "καθαρὰ",
+          "t": "pure",
+          "tl": "kathara",
+          "s": "2513",
+          "m": "Adj-NNP"
+        },
+        {
+          "o": "τοῖς",
+          "t": "to the",
+          "tl": "tois",
+          "s": "3588",
+          "m": "Art-DMP"
+        },
+        {
+          "o": "καθαροῖς",
+          "t": "pure",
+          "tl": "katharois",
+          "s": "2513",
+          "m": "Adj-DMP"
+        },
+        {
+          "o": "τοῖς",
+          "t": "to those",
+          "tl": "tois",
+          "s": "3588",
+          "m": "Art-DMP"
+        },
+        {
+          "o": "δὲ",
+          "t": "however",
+          "tl": "de",
+          "s": "1161",
+          "m": "Conj"
+        },
+        {
+          "o": "μεμιαμμένοις",
+          "t": "being defiled",
+          "tl": "memiammenois",
+          "s": "3392",
+          "m": "V-RPM/P-DMP"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "ἀπίστοις",
+          "t": "unbelieving",
+          "tl": "apistois",
+          "s": "571",
+          "m": "Adj-DMP"
+        },
+        {
+          "o": "οὐδὲν",
+          "t": "nothing",
+          "tl": "ouden",
+          "s": "3762",
+          "m": "Adj-NNS"
+        },
+        {
+          "o": "καθαρόν",
+          "t": "[is] pure",
+          "tl": "katharon",
+          "s": "2513",
+          "m": "Adj-NNS"
+        },
+        {
+          "o": "ἀλλὰ",
+          "t": "Instead",
+          "tl": "alla",
+          "s": "235",
+          "m": "Conj"
+        },
+        {
+          "o": "μεμίανται",
+          "t": "are defiled",
+          "tl": "memiantai",
+          "s": "3392",
+          "m": "V-RIM/P-3S"
+        },
+        {
+          "o": "αὐτῶν",
+          "t": "their",
+          "tl": "autōn",
+          "s": "846",
+          "m": "PPro-GM3P"
+        },
+        {
+          "o": "καὶ",
+          "t": "both",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "ὁ",
+          "t": "-",
+          "tl": "ho",
+          "s": "3588",
+          "m": "Art-NMS"
+        },
+        {
+          "o": "νοῦς",
+          "t": "mind",
+          "tl": "nous",
+          "s": "3563",
+          "m": "N-NMS"
+        },
+        {
+          "o": "ἡ",
+          "t": "-",
+          "tl": "hē",
+          "s": "3588",
+          "m": "Art-NFS"
+        },
+        {
+          "o": "συνείδησις",
+          "t": "conscience",
+          "tl": "syneidēsis",
+          "s": "4893",
+          "m": "N-NFS"
+        }
+      ],
+      [
+        {
+          "o": "Θεὸν",
+          "t": "God",
+          "tl": "Theon",
+          "s": "2316",
+          "m": "N-AMS"
+        },
+        {
+          "o": "ὁμολογοῦσιν",
+          "t": "they profess",
+          "tl": "homologousin",
+          "s": "3670",
+          "m": "V-PIA-3P"
+        },
+        {
+          "o": "εἰδέναι",
+          "t": "to know",
+          "tl": "eidenai",
+          "s": "1492",
+          "m": "V-RNA"
+        },
+        {
+          "o": "τοῖς",
+          "t": "in",
+          "tl": "tois",
+          "s": "3588",
+          "m": "Art-DNP"
+        },
+        {
+          "o": "δὲ",
+          "t": "however",
+          "tl": "de",
+          "s": "1161",
+          "m": "Conj"
+        },
+        {
+          "o": "ἔργοις",
+          "t": "works",
+          "tl": "ergois",
+          "s": "2041",
+          "m": "N-DNP"
+        },
+        {
+          "o": "ἀρνοῦνται",
+          "t": "they deny [Him]",
+          "tl": "arnountai",
+          "s": "720",
+          "m": "V-PIM/P-3P"
+        },
+        {
+          "o": "βδελυκτοὶ",
+          "t": "detestable",
+          "tl": "bdelyktoi",
+          "s": "947",
+          "m": "Adj-NMP"
+        },
+        {
+          "o": "ὄντες",
+          "t": "being",
+          "tl": "ontes",
+          "s": "1510",
+          "m": "V-PPA-NMP"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "ἀπειθεῖς",
+          "t": "disobedient",
+          "tl": "apeitheis",
+          "s": "545",
+          "m": "Adj-NMP"
+        },
+        {
+          "o": "πρὸς",
+          "t": "for",
+          "tl": "pros",
+          "s": "4314",
+          "m": "Prep"
+        },
+        {
+          "o": "πᾶν",
+          "t": "any",
+          "tl": "pan",
+          "s": "3956",
+          "m": "Adj-ANS"
+        },
+        {
+          "o": "ἔργον",
+          "t": "work",
+          "tl": "ergon",
+          "s": "2041",
+          "m": "N-ANS"
+        },
+        {
+          "o": "ἀγαθὸν",
+          "t": "good",
+          "tl": "agathon",
+          "s": "18",
+          "m": "Adj-ANS"
+        },
+        {
+          "o": "ἀδόκιμοι",
+          "t": "unfit",
+          "tl": "adokimoi",
+          "s": "96",
+          "m": "Adj-NMP"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "o": "Σὺ",
+          "t": "You",
+          "tl": "Sy",
+          "s": "4771",
+          "m": "PPro-N2S"
+        },
+        {
+          "o": "δὲ",
+          "t": "however",
+          "tl": "de",
+          "s": "1161",
+          "m": "Conj"
+        },
+        {
+          "o": "λάλει",
+          "t": "speak",
+          "tl": "lalei",
+          "s": "2980",
+          "m": "V-PMA-2S"
+        },
+        {
+          "o": "ἃ",
+          "t": "the things that",
+          "tl": "ha",
+          "s": "3739",
+          "m": "RelPro-NNP"
+        },
+        {
+          "o": "πρέπει",
+          "t": "are consistent with",
+          "tl": "prepei",
+          "s": "4241",
+          "m": "V-PIA-3S"
+        },
+        {
+          "o": "τῇ",
+          "t": "-",
+          "tl": "tē",
+          "s": "3588",
+          "m": "Art-DFS"
+        },
+        {
+          "o": "ὑγιαινούσῃ",
+          "t": "sound",
+          "tl": "hygiainousē",
+          "s": "5198",
+          "m": "V-PPA-DFS"
+        },
+        {
+          "o": "διδασκαλίᾳ",
+          "t": "doctrine",
+          "tl": "didaskalia",
+          "s": "1319",
+          "m": "N-DFS"
+        }
+      ],
+      [
+        {
+          "o": "Πρεσβύτας",
+          "t": "[The] aged [men]",
+          "tl": "Presbytas",
+          "s": "4246",
+          "m": "N-AMP"
+        },
+        {
+          "o": "νηφαλίους",
+          "t": "sober-minded",
+          "tl": "nēphalious",
+          "s": "3524",
+          "m": "Adj-AMP"
+        },
+        {
+          "o": "εἶναι",
+          "t": "are to be",
+          "tl": "einai",
+          "s": "1510",
+          "m": "V-PNA"
+        },
+        {
+          "o": "σεμνούς",
+          "t": "dignified",
+          "tl": "semnous",
+          "s": "4586",
+          "m": "Adj-AMP"
+        },
+        {
+          "o": "σώφρονας",
+          "t": "self-controlled",
+          "tl": "sōphronas",
+          "s": "4998",
+          "m": "Adj-AMP"
+        },
+        {
+          "o": "ὑγιαίνοντας",
+          "t": "sound",
+          "tl": "hygiainontas",
+          "s": "5198",
+          "m": "V-PPA-AMP"
+        },
+        {
+          "o": "τῇ",
+          "t": "-",
+          "tl": "tē",
+          "s": "3588",
+          "m": "Art-DFS"
+        },
+        {
+          "o": "πίστει",
+          "t": "in faith",
+          "tl": "pistei",
+          "s": "4102",
+          "m": "N-DFS"
+        },
+        {
+          "o": "ἀγάπῃ",
+          "t": "in love",
+          "tl": "agapē",
+          "s": "26",
+          "m": "N-DFS"
+        },
+        {
+          "o": "ὑπομονῇ",
+          "t": "in endurance",
+          "tl": "hypomonē",
+          "s": "5281",
+          "m": "N-DFS"
+        }
+      ],
+      [
+        {
+          "o": "πρεσβύτιδας",
+          "t": "[the] aged [women]",
+          "tl": "presbytidas",
+          "s": "4247",
+          "m": "N-AFP"
+        },
+        {
+          "o": "ὡσαύτως",
+          "t": "likewise",
+          "tl": "hōsautōs",
+          "s": "5615",
+          "m": "Adv"
+        },
+        {
+          "o": "ἐν",
+          "t": "in",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "καταστήματι",
+          "t": "behavior",
+          "tl": "katastēmati",
+          "s": "2688",
+          "m": "N-DNS"
+        },
+        {
+          "o": "ἱεροπρεπεῖς",
+          "t": "reverent",
+          "tl": "hieroprepeis",
+          "s": "2412",
+          "m": "Adj-AFP"
+        },
+        {
+          "o": "μὴ",
+          "t": "not",
+          "tl": "mē",
+          "s": "3361",
+          "m": "Adv"
+        },
+        {
+          "o": "διαβόλους",
+          "t": "slanderers",
+          "tl": "diabolous",
+          "s": "1228",
+          "m": "Adj-AFP"
+        },
+        {
+          "o": "μηδὲ",
+          "t": "not",
+          "tl": "mēde",
+          "s": "3366",
+          "m": "Conj"
+        },
+        {
+          "o": "οἴνῳ",
+          "t": "to wine",
+          "tl": "oinō",
+          "s": "3631",
+          "m": "N-DMS"
+        },
+        {
+          "o": "πολλῷ",
+          "t": "much",
+          "tl": "pollō",
+          "s": "4183",
+          "m": "Adj-DMS"
+        },
+        {
+          "o": "δεδουλωμένας",
+          "t": "being enslaved",
+          "tl": "dedoulōmenas",
+          "s": "1402",
+          "m": "V-RPM/P-AFP"
+        },
+        {
+          "o": "καλοδιδασκάλους",
+          "t": "teachers of what is good",
+          "tl": "kalodidaskalous",
+          "s": "2567",
+          "m": "Adj-AFP"
+        }
+      ],
+      [
+        {
+          "o": "ἵνα",
+          "t": "so that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "σωφρονίζωσιν",
+          "t": "they may train",
+          "tl": "sōphronizōsin",
+          "s": "4994",
+          "m": "V-PSA-3P"
+        },
+        {
+          "o": "τὰς",
+          "t": "the",
+          "tl": "tas",
+          "s": "3588",
+          "m": "Art-AFP"
+        },
+        {
+          "o": "νέας",
+          "t": "young [women]",
+          "tl": "neas",
+          "s": "3501",
+          "m": "Adj-AFP"
+        },
+        {
+          "o": "φιλάνδρους",
+          "t": "lovers of [their] husbands",
+          "tl": "philandrous",
+          "s": "5362",
+          "m": "N-AFP"
+        },
+        {
+          "o": "εἶναι",
+          "t": "to be",
+          "tl": "einai",
+          "s": "1510",
+          "m": "V-PNA"
+        },
+        {
+          "o": "φιλοτέκνους",
+          "t": "loving [their] children",
+          "tl": "philoteknous",
+          "s": "5388",
+          "m": "Adj-AFP"
+        }
+      ],
+      [
+        {
+          "o": "σώφρονας",
+          "t": "self-controlled",
+          "tl": "sōphronas",
+          "s": "4998",
+          "m": "Adj-AFP"
+        },
+        {
+          "o": "ἁγνάς",
+          "t": "pure",
+          "tl": "hagnas",
+          "s": "53",
+          "m": "Adj-AFP"
+        },
+        {
+          "o": "οἰκουργούς",
+          "t": "keepers at home",
+          "tl": "oikourgous",
+          "s": "3626",
+          "m": "Adj-AFP"
+        },
+        {
+          "o": "ἀγαθάς",
+          "t": "kind",
+          "tl": "agathas",
+          "s": "18",
+          "m": "Adj-AFP"
+        },
+        {
+          "o": "ὑποτασσομένας",
+          "t": "being subject",
+          "tl": "hypotassomenas",
+          "s": "5293",
+          "m": "V-PPM/P-AFP"
+        },
+        {
+          "o": "τοῖς",
+          "t": "to the",
+          "tl": "tois",
+          "s": "3588",
+          "m": "Art-DMP"
+        },
+        {
+          "o": "ἰδίοις",
+          "t": "own",
+          "tl": "idiois",
+          "s": "2398",
+          "m": "Adj-DMP"
+        },
+        {
+          "o": "ἀνδράσιν",
+          "t": "husbands",
+          "tl": "andrasin",
+          "s": "435",
+          "m": "N-DMP"
+        },
+        {
+          "o": "ἵνα",
+          "t": "so that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "μὴ",
+          "t": "not",
+          "tl": "mē",
+          "s": "3361",
+          "m": "Adv"
+        },
+        {
+          "o": "ὁ",
+          "t": "the",
+          "tl": "ho",
+          "s": "3588",
+          "m": "Art-NMS"
+        },
+        {
+          "o": "λόγος",
+          "t": "word",
+          "tl": "logos",
+          "s": "3056",
+          "m": "N-NMS"
+        },
+        {
+          "o": "τοῦ",
+          "t": "-",
+          "tl": "tou",
+          "s": "3588",
+          "m": "Art-GMS"
+        },
+        {
+          "o": "Θεοῦ",
+          "t": "of God",
+          "tl": "Theou",
+          "s": "2316",
+          "m": "N-GMS"
+        },
+        {
+          "o": "βλασφημῆται",
+          "t": "should be maligned",
+          "tl": "blasphēmētai",
+          "s": "987",
+          "m": "V-PSM/P-3S"
+        }
+      ],
+      [
+        {
+          "o": "Τοὺς",
+          "t": "The",
+          "tl": "Tous",
+          "s": "3588",
+          "m": "Art-AMP"
+        },
+        {
+          "o": "νεωτέρους",
+          "t": "younger [men]",
+          "tl": "neōterous",
+          "s": "3501",
+          "m": "Adj-AMP-C"
+        },
+        {
+          "o": "ὡσαύτως",
+          "t": "likewise",
+          "tl": "hōsautōs",
+          "s": "5615",
+          "m": "Adv"
+        },
+        {
+          "o": "παρακάλει",
+          "t": "exhort",
+          "tl": "parakalei",
+          "s": "3870",
+          "m": "V-PMA-2S"
+        },
+        {
+          "o": "σωφρονεῖν",
+          "t": "to be self-controlled",
+          "tl": "sōphronein",
+          "s": "4993",
+          "m": "V-PNA"
+        }
+      ],
+      [
+        {
+          "o": "Περὶ",
+          "t": "In",
+          "tl": "Peri",
+          "s": "4012",
+          "m": "Prep"
+        },
+        {
+          "o": "πάντα",
+          "t": "all things",
+          "tl": "panta",
+          "s": "3956",
+          "m": "Adj-ANP"
+        },
+        {
+          "o": "σεαυτὸν",
+          "t": "yourself",
+          "tl": "seauton",
+          "s": "4572",
+          "m": "PPro-AM2S"
+        },
+        {
+          "o": "παρεχόμενος",
+          "t": "be holding forth",
+          "tl": "parechomenos",
+          "s": "3930",
+          "m": "V-PPM-NMS"
+        },
+        {
+          "o": "τύπον",
+          "t": "[as] a pattern",
+          "tl": "typon",
+          "s": "5179",
+          "m": "N-AMS"
+        },
+        {
+          "o": "καλῶν",
+          "t": "of good",
+          "tl": "kalōn",
+          "s": "2570",
+          "m": "Adj-GNP"
+        },
+        {
+          "o": "ἔργων",
+          "t": "works",
+          "tl": "ergōn",
+          "s": "2041",
+          "m": "N-GNP"
+        },
+        {
+          "o": "ἐν",
+          "t": "in",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "τῇ",
+          "t": "the",
+          "tl": "tē",
+          "s": "3588",
+          "m": "Art-DFS"
+        },
+        {
+          "o": "διδασκαλίᾳ",
+          "t": "teaching",
+          "tl": "didaskalia",
+          "s": "1319",
+          "m": "N-DFS"
+        },
+        {
+          "o": "ἀφθορίαν",
+          "t": "integrity",
+          "tl": "aphthorian",
+          "s": "861",
+          "m": "N-AFS"
+        },
+        {
+          "o": "σεμνότητα",
+          "t": "dignity",
+          "tl": "semnotēta",
+          "s": "4587",
+          "m": "N-AFS"
+        }
+      ],
+      [
+        {
+          "o": "λόγον",
+          "t": "speech",
+          "tl": "logon",
+          "s": "3056",
+          "m": "N-AMS"
+        },
+        {
+          "o": "ὑγιῆ",
+          "t": "sound",
+          "tl": "hygiē",
+          "s": "5199",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "ἀκατάγνωστον",
+          "t": "beyond reproach",
+          "tl": "akatagnōston",
+          "s": "176",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "ἵνα",
+          "t": "so that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "ὁ",
+          "t": "he who is",
+          "tl": "ho",
+          "s": "3588",
+          "m": "Art-NMS"
+        },
+        {
+          "o": "ἐξ",
+          "t": "of the",
+          "tl": "ex",
+          "s": "1537",
+          "m": "Prep"
+        },
+        {
+          "o": "ἐναντίας",
+          "t": "contrary",
+          "tl": "enantias",
+          "s": "1727",
+          "m": "Adj-GFS"
+        },
+        {
+          "o": "ἐντραπῇ",
+          "t": "may be ashamed",
+          "tl": "entrapē",
+          "s": "1788",
+          "m": "V-ASP-3S"
+        },
+        {
+          "o": "μηδὲν",
+          "t": "nothing",
+          "tl": "mēden",
+          "s": "3367",
+          "m": "Adj-ANS"
+        },
+        {
+          "o": "ἔχων",
+          "t": "having",
+          "tl": "echōn",
+          "s": "2192",
+          "m": "V-PPA-NMS"
+        },
+        {
+          "o": "λέγειν",
+          "t": "to say",
+          "tl": "legein",
+          "s": "3004",
+          "m": "V-PNA"
+        },
+        {
+          "o": "περὶ",
+          "t": "concerning",
+          "tl": "peri",
+          "s": "4012",
+          "m": "Prep"
+        },
+        {
+          "o": "ἡμῶν",
+          "t": "us",
+          "tl": "hēmōn",
+          "s": "1473",
+          "m": "PPro-G1P"
+        },
+        {
+          "o": "φαῦλον",
+          "t": "evil",
+          "tl": "phaulon",
+          "s": "5337",
+          "m": "Adj-ANS"
+        }
+      ],
+      [
+        {
+          "o": "Δούλους",
+          "t": "Servants",
+          "tl": "Doulous",
+          "s": "1401",
+          "m": "N-AMP"
+        },
+        {
+          "o": "ἰδίοις",
+          "t": "to their own",
+          "tl": "idiois",
+          "s": "2398",
+          "m": "Adj-DMP"
+        },
+        {
+          "o": "δεσπόταις",
+          "t": "masters",
+          "tl": "despotais",
+          "s": "1203",
+          "m": "N-DMP"
+        },
+        {
+          "o": "ὑποτάσσεσθαι",
+          "t": "are to be subject",
+          "tl": "hypotassesthai",
+          "s": "5293",
+          "m": "V-PNP"
+        },
+        {
+          "o": "ἐν",
+          "t": "in",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "πᾶσιν",
+          "t": "everything",
+          "tl": "pasin",
+          "s": "3956",
+          "m": "Adj-DNP"
+        },
+        {
+          "o": "εὐαρέστους",
+          "t": "well-pleasing",
+          "tl": "euarestous",
+          "s": "2101",
+          "m": "Adj-AMP"
+        },
+        {
+          "o": "εἶναι",
+          "t": "to be",
+          "tl": "einai",
+          "s": "1510",
+          "m": "V-PNA"
+        },
+        {
+          "o": "μὴ",
+          "t": "not",
+          "tl": "mē",
+          "s": "3361",
+          "m": "Adv"
+        },
+        {
+          "o": "ἀντιλέγοντας",
+          "t": "gainsaying",
+          "tl": "antilegontas",
+          "s": "483",
+          "m": "V-PPA-AMP"
+        }
+      ],
+      [
+        {
+          "o": "μὴ",
+          "t": "not",
+          "tl": "mē",
+          "s": "3361",
+          "m": "Adv"
+        },
+        {
+          "o": "νοσφιζομένους",
+          "t": "pilfering",
+          "tl": "nosphizomenous",
+          "s": "3557",
+          "m": "V-PPM-AMP"
+        },
+        {
+          "o": "ἀλλὰ",
+          "t": "but",
+          "tl": "alla",
+          "s": "235",
+          "m": "Conj"
+        },
+        {
+          "o": "πᾶσαν",
+          "t": "all",
+          "tl": "pasan",
+          "s": "3956",
+          "m": "Adj-AFS"
+        },
+        {
+          "o": "πίστιν",
+          "t": "fidelity",
+          "tl": "pistin",
+          "s": "4102",
+          "m": "N-AFS"
+        },
+        {
+          "o": "ἐνδεικνυμένους",
+          "t": "showing",
+          "tl": "endeiknymenous",
+          "s": "1731",
+          "m": "V-PPM-AMP"
+        },
+        {
+          "o": "ἀγαθήν",
+          "t": "good",
+          "tl": "agathēn",
+          "s": "18",
+          "m": "Adj-AFS"
+        },
+        {
+          "o": "ἵνα",
+          "t": "so that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "τὴν",
+          "t": "the",
+          "tl": "tēn",
+          "s": "3588",
+          "m": "Art-AFS"
+        },
+        {
+          "o": "διδασκαλίαν",
+          "t": "doctrine",
+          "tl": "didaskalian",
+          "s": "1319",
+          "m": "N-AFS"
+        },
+        {
+          "o": "τὴν",
+          "t": "of",
+          "tl": "tēn",
+          "s": "3588",
+          "m": "Art-AFS"
+        },
+        {
+          "o": "τοῦ",
+          "t": "the",
+          "tl": "tou",
+          "s": "3588",
+          "m": "Art-GMS"
+        },
+        {
+          "o": "Σωτῆρος",
+          "t": "Savior",
+          "tl": "Sōtēros",
+          "s": "4990",
+          "m": "N-GMS"
+        },
+        {
+          "o": "ἡμῶν",
+          "t": "of us",
+          "tl": "hēmōn",
+          "s": "1473",
+          "m": "PPro-G1P"
+        },
+        {
+          "o": "Θεοῦ",
+          "t": "God",
+          "tl": "Theou",
+          "s": "2316",
+          "m": "N-GMS"
+        },
+        {
+          "o": "κοσμῶσιν",
+          "t": "they may adorn",
+          "tl": "kosmōsin",
+          "s": "2885",
+          "m": "V-PSA-3P"
+        },
+        {
+          "o": "ἐν",
+          "t": "in",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "πᾶσιν",
+          "t": "all things",
+          "tl": "pasin",
+          "s": "3956",
+          "m": "Adj-DNP"
+        }
+      ],
+      [
+        {
+          "o": "Ἐπεφάνη",
+          "t": "Has appeared",
+          "tl": "Epephanē",
+          "s": "2014",
+          "m": "V-AIP-3S"
+        },
+        {
+          "o": "γὰρ",
+          "t": "for",
+          "tl": "gar",
+          "s": "1063",
+          "m": "Conj"
+        },
+        {
+          "o": "ἡ",
+          "t": "the",
+          "tl": "hē",
+          "s": "3588",
+          "m": "Art-NFS"
+        },
+        {
+          "o": "χάρις",
+          "t": "grace",
+          "tl": "charis",
+          "s": "5485",
+          "m": "N-NFS"
+        },
+        {
+          "o": "τοῦ",
+          "t": "-",
+          "tl": "tou",
+          "s": "3588",
+          "m": "Art-GMS"
+        },
+        {
+          "o": "Θεοῦ",
+          "t": "of God",
+          "tl": "Theou",
+          "s": "2316",
+          "m": "N-GMS"
+        },
+        {
+          "o": "σωτήριος",
+          "t": "bringing salvation",
+          "tl": "sōtērios",
+          "s": "4992",
+          "m": "Adj-NFS"
+        },
+        {
+          "o": "πᾶσιν",
+          "t": "to all",
+          "tl": "pasin",
+          "s": "3956",
+          "m": "Adj-DMP"
+        },
+        {
+          "o": "ἀνθρώποις",
+          "t": "men",
+          "tl": "anthrōpois",
+          "s": "444",
+          "m": "N-DMP"
+        }
+      ],
+      [
+        {
+          "o": "παιδεύουσα",
+          "t": "instructing",
+          "tl": "paideuousa",
+          "s": "3811",
+          "m": "V-PPA-NFS"
+        },
+        {
+          "o": "ἡμᾶς",
+          "t": "us",
+          "tl": "hēmas",
+          "s": "1473",
+          "m": "PPro-A1P"
+        },
+        {
+          "o": "ἵνα",
+          "t": "that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "ἀρνησάμενοι",
+          "t": "having denied",
+          "tl": "arnēsamenoi",
+          "s": "720",
+          "m": "V-APM-NMP"
+        },
+        {
+          "o": "τὴν",
+          "t": "-",
+          "tl": "tēn",
+          "s": "3588",
+          "m": "Art-AFS"
+        },
+        {
+          "o": "ἀσέβειαν",
+          "t": "ungodliness",
+          "tl": "asebeian",
+          "s": "763",
+          "m": "N-AFS"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "τὰς",
+          "t": "-",
+          "tl": "tas",
+          "s": "3588",
+          "m": "Art-AFP"
+        },
+        {
+          "o": "κοσμικὰς",
+          "t": "worldly",
+          "tl": "kosmikas",
+          "s": "2886",
+          "m": "Adj-AFP"
+        },
+        {
+          "o": "ἐπιθυμίας",
+          "t": "passions",
+          "tl": "epithymias",
+          "s": "1939",
+          "m": "N-AFP"
+        },
+        {
+          "o": "σωφρόνως",
+          "t": "discreetly",
+          "tl": "sōphronōs",
+          "s": "4996",
+          "m": "Adv"
+        },
+        {
+          "o": "δικαίως",
+          "t": "righteously",
+          "tl": "dikaiōs",
+          "s": "1346",
+          "m": "Adv"
+        },
+        {
+          "o": "εὐσεβῶς",
+          "t": "piously",
+          "tl": "eusebōs",
+          "s": "2153",
+          "m": "Adv"
+        },
+        {
+          "o": "ζήσωμεν",
+          "t": "we should live",
+          "tl": "zēsōmen",
+          "s": "2198",
+          "m": "V-ASA-1P"
+        },
+        {
+          "o": "ἐν",
+          "t": "in",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "τῷ",
+          "t": "the",
+          "tl": "tō",
+          "s": "3588",
+          "m": "Art-DMS"
+        },
+        {
+          "o": "νῦν",
+          "t": "present",
+          "tl": "nyn",
+          "s": "3568",
+          "m": "Adv"
+        },
+        {
+          "o": "αἰῶνι",
+          "t": "age",
+          "tl": "aiōni",
+          "s": "165",
+          "m": "N-DMS"
+        }
+      ],
+      [
+        {
+          "o": "προσδεχόμενοι",
+          "t": "awaiting",
+          "tl": "prosdechomenoi",
+          "s": "4327",
+          "m": "V-PPM/P-NMP"
+        },
+        {
+          "o": "τὴν",
+          "t": "the",
+          "tl": "tēn",
+          "s": "3588",
+          "m": "Art-AFS"
+        },
+        {
+          "o": "μακαρίαν",
+          "t": "blessed",
+          "tl": "makarian",
+          "s": "3107",
+          "m": "Adj-AFS"
+        },
+        {
+          "o": "ἐλπίδα",
+          "t": "hope",
+          "tl": "elpida",
+          "s": "1680",
+          "m": "N-AFS"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "ἐπιφάνειαν",
+          "t": "[the] appearing",
+          "tl": "epiphaneian",
+          "s": "2015",
+          "m": "N-AFS"
+        },
+        {
+          "o": "τῆς",
+          "t": "of the",
+          "tl": "tēs",
+          "s": "3588",
+          "m": "Art-GFS"
+        },
+        {
+          "o": "δόξης",
+          "t": "glory",
+          "tl": "doxēs",
+          "s": "1391",
+          "m": "N-GFS"
+        },
+        {
+          "o": "τοῦ",
+          "t": "of the",
+          "tl": "tou",
+          "s": "3588",
+          "m": "Art-GMS"
+        },
+        {
+          "o": "μεγάλου",
+          "t": "great",
+          "tl": "megalou",
+          "s": "3173",
+          "m": "Adj-GMS"
+        },
+        {
+          "o": "Θεοῦ",
+          "t": "God",
+          "tl": "Theou",
+          "s": "2316",
+          "m": "N-GMS"
+        },
+        {
+          "o": "Σωτῆρος",
+          "t": "Savior",
+          "tl": "Sōtēros",
+          "s": "4990",
+          "m": "N-GMS"
+        },
+        {
+          "o": "ἡμῶν",
+          "t": "of us",
+          "tl": "hēmōn",
+          "s": "1473",
+          "m": "PPro-G1P"
+        },
+        {
+          "o": "Χριστοῦ ⇔",
+          "t": "Christ",
+          "tl": "Christou",
+          "s": "5547",
+          "m": "N-GMS"
+        },
+        {
+          "o": "Ἰησοῦ",
+          "t": "Jesus",
+          "tl": "Iēsou",
+          "s": "2424",
+          "m": "N-GMS"
+        }
+      ],
+      [
+        {
+          "o": "ὃς",
+          "t": "who",
+          "tl": "hos",
+          "s": "3739",
+          "m": "RelPro-NMS"
+        },
+        {
+          "o": "ἔδωκεν",
+          "t": "gave",
+          "tl": "edōken",
+          "s": "1325",
+          "m": "V-AIA-3S"
+        },
+        {
+          "o": "ἑαυτὸν",
+          "t": "Himself",
+          "tl": "heauton",
+          "s": "1438",
+          "m": "RefPro-AM3S"
+        },
+        {
+          "o": "ὑπὲρ",
+          "t": "for",
+          "tl": "hyper",
+          "s": "5228",
+          "m": "Prep"
+        },
+        {
+          "o": "ἡμῶν",
+          "t": "us",
+          "tl": "hēmōn",
+          "s": "1473",
+          "m": "PPro-G1P"
+        },
+        {
+          "o": "ἵνα",
+          "t": "that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "λυτρώσηται",
+          "t": "He might redeem",
+          "tl": "lytrōsētai",
+          "s": "3084",
+          "m": "V-ASM-3S"
+        },
+        {
+          "o": "ἡμᾶς",
+          "t": "us",
+          "tl": "hēmas",
+          "s": "1473",
+          "m": "PPro-A1P"
+        },
+        {
+          "o": "ἀπὸ",
+          "t": "from",
+          "tl": "apo",
+          "s": "575",
+          "m": "Prep"
+        },
+        {
+          "o": "πάσης",
+          "t": "all",
+          "tl": "pasēs",
+          "s": "3956",
+          "m": "Adj-GFS"
+        },
+        {
+          "o": "ἀνομίας",
+          "t": "lawlessness",
+          "tl": "anomias",
+          "s": "458",
+          "m": "N-GFS"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "καθαρίσῃ",
+          "t": "might purify",
+          "tl": "katharisē",
+          "s": "2511",
+          "m": "V-ASA-3S"
+        },
+        {
+          "o": "ἑαυτῷ",
+          "t": "to Himself",
+          "tl": "heautō",
+          "s": "1438",
+          "m": "RefPro-DM3S"
+        },
+        {
+          "o": "λαὸν",
+          "t": "a people",
+          "tl": "laon",
+          "s": "2992",
+          "m": "N-AMS"
+        },
+        {
+          "o": "περιούσιον",
+          "t": "specially chosen",
+          "tl": "periousion",
+          "s": "4041",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "ζηλωτὴν",
+          "t": "zealous",
+          "tl": "zēlōtēn",
+          "s": "2207",
+          "m": "N-AMS"
+        },
+        {
+          "o": "καλῶν",
+          "t": "of good",
+          "tl": "kalōn",
+          "s": "2570",
+          "m": "Adj-GNP"
+        },
+        {
+          "o": "ἔργων",
+          "t": "works",
+          "tl": "ergōn",
+          "s": "2041",
+          "m": "N-GNP"
+        }
+      ],
+      [
+        {
+          "o": "Ταῦτα",
+          "t": "These things",
+          "tl": "Tauta",
+          "s": "3778",
+          "m": "DPro-ANP"
+        },
+        {
+          "o": "λάλει",
+          "t": "speak",
+          "tl": "lalei",
+          "s": "2980",
+          "m": "V-PMA-2S"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "παρακάλει",
+          "t": "exhort",
+          "tl": "parakalei",
+          "s": "3870",
+          "m": "V-PMA-2S"
+        },
+        {
+          "o": "ἔλεγχε",
+          "t": "rebuke",
+          "tl": "elenche",
+          "s": "1651",
+          "m": "V-PMA-2S"
+        },
+        {
+          "o": "μετὰ",
+          "t": "with",
+          "tl": "meta",
+          "s": "3326",
+          "m": "Prep"
+        },
+        {
+          "o": "πάσης",
+          "t": "all",
+          "tl": "pasēs",
+          "s": "3956",
+          "m": "Adj-GFS"
+        },
+        {
+          "o": "ἐπιταγῆς",
+          "t": "authority",
+          "tl": "epitagēs",
+          "s": "2003",
+          "m": "N-GFS"
+        },
+        {
+          "o": "μηδείς",
+          "t": "No one",
+          "tl": "mēdeis",
+          "s": "3367",
+          "m": "Adj-NMS"
+        },
+        {
+          "o": "σου",
+          "t": "you",
+          "tl": "sou",
+          "s": "4771",
+          "m": "PPro-G2S"
+        },
+        {
+          "o": "περιφρονείτω",
+          "t": "let despise",
+          "tl": "periphroneitō",
+          "s": "4065",
+          "m": "V-PMA-3S"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "o": "Ὑπομίμνῃσκε",
+          "t": "Remind",
+          "tl": "Hypomimnēske",
+          "s": "5279",
+          "m": "V-PMA-2S"
+        },
+        {
+          "o": "αὐτοὺς",
+          "t": "them",
+          "tl": "autous",
+          "s": "846",
+          "m": "PPro-AM3P"
+        },
+        {
+          "o": "ἀρχαῖς",
+          "t": "to rulers",
+          "tl": "archais",
+          "s": "746",
+          "m": "N-DFP"
+        },
+        {
+          "o": "ἐξουσίαις",
+          "t": "to authorities",
+          "tl": "exousiais",
+          "s": "1849",
+          "m": "N-DFP"
+        },
+        {
+          "o": "ὑποτάσσεσθαι",
+          "t": "to be subject",
+          "tl": "hypotassesthai",
+          "s": "5293",
+          "m": "V-PNP"
+        },
+        {
+          "o": "πειθαρχεῖν",
+          "t": "to be obedient",
+          "tl": "peitharchein",
+          "s": "3980",
+          "m": "V-PNA"
+        },
+        {
+          "o": "πρὸς",
+          "t": "for",
+          "tl": "pros",
+          "s": "4314",
+          "m": "Prep"
+        },
+        {
+          "o": "πᾶν",
+          "t": "every",
+          "tl": "pan",
+          "s": "3956",
+          "m": "Adj-ANS"
+        },
+        {
+          "o": "ἔργον",
+          "t": "work",
+          "tl": "ergon",
+          "s": "2041",
+          "m": "N-ANS"
+        },
+        {
+          "o": "ἀγαθὸν",
+          "t": "good",
+          "tl": "agathon",
+          "s": "18",
+          "m": "Adj-ANS"
+        },
+        {
+          "o": "ἑτοίμους",
+          "t": "ready",
+          "tl": "hetoimous",
+          "s": "2092",
+          "m": "Adj-AMP"
+        },
+        {
+          "o": "εἶναι",
+          "t": "to be",
+          "tl": "einai",
+          "s": "1510",
+          "m": "V-PNA"
+        }
+      ],
+      [
+        {
+          "o": "μηδένα",
+          "t": "no one",
+          "tl": "mēdena",
+          "s": "3367",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "βλασφημεῖν",
+          "t": "to speak evil of",
+          "tl": "blasphēmein",
+          "s": "987",
+          "m": "V-PNA"
+        },
+        {
+          "o": "ἀμάχους",
+          "t": "peaceable",
+          "tl": "amachous",
+          "s": "269",
+          "m": "Adj-AMP"
+        },
+        {
+          "o": "εἶναι",
+          "t": "to be",
+          "tl": "einai",
+          "s": "1510",
+          "m": "V-PNA"
+        },
+        {
+          "o": "ἐπιεικεῖς",
+          "t": "gentle",
+          "tl": "epieikeis",
+          "s": "1933",
+          "m": "Adj-AMP"
+        },
+        {
+          "o": "πᾶσαν",
+          "t": "all",
+          "tl": "pasan",
+          "s": "3956",
+          "m": "Adj-AFS"
+        },
+        {
+          "o": "ἐνδεικνυμένους",
+          "t": "showing",
+          "tl": "endeiknymenous",
+          "s": "1731",
+          "m": "V-PPM-AMP"
+        },
+        {
+          "o": "πραΰτητα",
+          "t": "humility",
+          "tl": "prautēta",
+          "s": "4240",
+          "m": "N-AFS"
+        },
+        {
+          "o": "πρὸς",
+          "t": "toward",
+          "tl": "pros",
+          "s": "4314",
+          "m": "Prep"
+        },
+        {
+          "o": "πάντας",
+          "t": "all",
+          "tl": "pantas",
+          "s": "3956",
+          "m": "Adj-AMP"
+        },
+        {
+          "o": "ἀνθρώπους",
+          "t": "men",
+          "tl": "anthrōpous",
+          "s": "444",
+          "m": "N-AMP"
+        }
+      ],
+      [
+        {
+          "o": "Ἦμεν",
+          "t": "Were",
+          "tl": "Ēmen",
+          "s": "1510",
+          "m": "V-IIA-1P"
+        },
+        {
+          "o": "γάρ",
+          "t": "for",
+          "tl": "gar",
+          "s": "1063",
+          "m": "Conj"
+        },
+        {
+          "o": "ποτε",
+          "t": "once",
+          "tl": "pote",
+          "s": "4218",
+          "m": "Prtcl"
+        },
+        {
+          "o": "καὶ",
+          "t": "also",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "ἡμεῖς",
+          "t": "we ourselves",
+          "tl": "hēmeis",
+          "s": "1473",
+          "m": "PPro-N1P"
+        },
+        {
+          "o": "ἀνόητοι",
+          "t": "foolish",
+          "tl": "anoētoi",
+          "s": "453",
+          "m": "Adj-NMP"
+        },
+        {
+          "o": "ἀπειθεῖς",
+          "t": "disobedient",
+          "tl": "apeitheis",
+          "s": "545",
+          "m": "Adj-NMP"
+        },
+        {
+          "o": "πλανώμενοι",
+          "t": "being deceived",
+          "tl": "planōmenoi",
+          "s": "4105",
+          "m": "V-PPM/P-NMP"
+        },
+        {
+          "o": "δουλεύοντες",
+          "t": "serving",
+          "tl": "douleuontes",
+          "s": "1398",
+          "m": "V-PPA-NMP"
+        },
+        {
+          "o": "ἐπιθυμίαις",
+          "t": "lusts",
+          "tl": "epithymiais",
+          "s": "1939",
+          "m": "N-DFP"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "ἡδοναῖς",
+          "t": "pleasures",
+          "tl": "hēdonais",
+          "s": "2237",
+          "m": "N-DFP"
+        },
+        {
+          "o": "ποικίλαις",
+          "t": "various",
+          "tl": "poikilais",
+          "s": "4164",
+          "m": "Adj-DFP"
+        },
+        {
+          "o": "ἐν",
+          "t": "in",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "κακίᾳ",
+          "t": "malice",
+          "tl": "kakia",
+          "s": "2549",
+          "m": "N-DFS"
+        },
+        {
+          "o": "φθόνῳ",
+          "t": "envy",
+          "tl": "phthonō",
+          "s": "5355",
+          "m": "N-DMS"
+        },
+        {
+          "o": "διάγοντες",
+          "t": "living",
+          "tl": "diagontes",
+          "s": "1236",
+          "m": "V-PPA-NMP"
+        },
+        {
+          "o": "στυγητοί",
+          "t": "hateful",
+          "tl": "stygētoi",
+          "s": "4767",
+          "m": "Adj-NMP"
+        },
+        {
+          "o": "μισοῦντες",
+          "t": "hating",
+          "tl": "misountes",
+          "s": "3404",
+          "m": "V-PPA-NMP"
+        },
+        {
+          "o": "ἀλλήλους",
+          "t": "one another",
+          "tl": "allēlous",
+          "s": "240",
+          "m": "RecPro-AMP"
+        }
+      ],
+      [
+        {
+          "o": "Ὅτε",
+          "t": "When",
+          "tl": "Hote",
+          "s": "3753",
+          "m": "Adv"
+        },
+        {
+          "o": "δὲ",
+          "t": "however",
+          "tl": "de",
+          "s": "1161",
+          "m": "Conj"
+        },
+        {
+          "o": "ἡ",
+          "t": "the",
+          "tl": "hē",
+          "s": "3588",
+          "m": "Art-NFS"
+        },
+        {
+          "o": "χρηστότης",
+          "t": "kindness",
+          "tl": "chrēstotēs",
+          "s": "5544",
+          "m": "N-NFS"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "φιλανθρωπία",
+          "t": "love of mankind",
+          "tl": "philanthrōpia",
+          "s": "5363",
+          "m": "N-NFS"
+        },
+        {
+          "o": "ἐπεφάνη",
+          "t": "appeared",
+          "tl": "epephanē",
+          "s": "2014",
+          "m": "V-AIP-3S"
+        },
+        {
+          "o": "τοῦ",
+          "t": "of the",
+          "tl": "tou",
+          "s": "3588",
+          "m": "Art-GMS"
+        },
+        {
+          "o": "Σωτῆρος",
+          "t": "Savior",
+          "tl": "Sōtēros",
+          "s": "4990",
+          "m": "N-GMS"
+        },
+        {
+          "o": "ἡμῶν",
+          "t": "of us",
+          "tl": "hēmōn",
+          "s": "1473",
+          "m": "PPro-G1P"
+        },
+        {
+          "o": "Θεοῦ",
+          "t": "God",
+          "tl": "Theou",
+          "s": "2316",
+          "m": "N-GMS"
+        }
+      ],
+      [
+        {
+          "o": "οὐκ",
+          "t": "not",
+          "tl": "ouk",
+          "s": "3756",
+          "m": "Adv"
+        },
+        {
+          "o": "ἐξ",
+          "t": "by",
+          "tl": "ex",
+          "s": "1537",
+          "m": "Prep"
+        },
+        {
+          "o": "ἔργων",
+          "t": "works",
+          "tl": "ergōn",
+          "s": "2041",
+          "m": "N-GNP"
+        },
+        {
+          "o": "τῶν",
+          "t": "-",
+          "tl": "tōn",
+          "s": "3588",
+          "m": "Art-GNP"
+        },
+        {
+          "o": "ἐν",
+          "t": "in",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "δικαιοσύνῃ",
+          "t": "righteousness",
+          "tl": "dikaiosynē",
+          "s": "1343",
+          "m": "N-DFS"
+        },
+        {
+          "o": "ἃ",
+          "t": "that",
+          "tl": "ha",
+          "s": "3739",
+          "m": "RelPro-ANP"
+        },
+        {
+          "o": "ἐποιήσαμεν",
+          "t": "did",
+          "tl": "epoiēsamen",
+          "s": "4160",
+          "m": "V-AIA-1P"
+        },
+        {
+          "o": "ἡμεῖς",
+          "t": "we",
+          "tl": "hēmeis",
+          "s": "1473",
+          "m": "PPro-N1P"
+        },
+        {
+          "o": "ἀλλὰ",
+          "t": "but",
+          "tl": "alla",
+          "s": "235",
+          "m": "Conj"
+        },
+        {
+          "o": "κατὰ",
+          "t": "according to",
+          "tl": "kata",
+          "s": "2596",
+          "m": "Prep"
+        },
+        {
+          "o": "τὸ",
+          "t": "-",
+          "tl": "to",
+          "s": "3588",
+          "m": "Art-ANS"
+        },
+        {
+          "o": "αὐτοῦ",
+          "t": "His",
+          "tl": "autou",
+          "s": "846",
+          "m": "PPro-GM3S"
+        },
+        {
+          "o": "ἔλεος",
+          "t": "mercy",
+          "tl": "eleos",
+          "s": "1656",
+          "m": "N-ANS"
+        },
+        {
+          "o": "ἔσωσεν",
+          "t": "He saved",
+          "tl": "esōsen",
+          "s": "4982",
+          "m": "V-AIA-3S"
+        },
+        {
+          "o": "ἡμᾶς",
+          "t": "us",
+          "tl": "hēmas",
+          "s": "1473",
+          "m": "PPro-A1P"
+        },
+        {
+          "o": "διὰ",
+          "t": "through",
+          "tl": "dia",
+          "s": "1223",
+          "m": "Prep"
+        },
+        {
+          "o": "λουτροῦ",
+          "t": "[the] washing",
+          "tl": "loutrou",
+          "s": "3067",
+          "m": "N-GNS"
+        },
+        {
+          "o": "παλινγενεσίας",
+          "t": "of regeneration",
+          "tl": "palingenesias",
+          "s": "3824",
+          "m": "N-GFS"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "ἀνακαινώσεως",
+          "t": "renewing",
+          "tl": "anakainōseōs",
+          "s": "342",
+          "m": "N-GFS"
+        },
+        {
+          "o": "Πνεύματος",
+          "t": "of [the] Spirit",
+          "tl": "Pneumatos",
+          "s": "4151",
+          "m": "N-GNS"
+        },
+        {
+          "o": "Ἁγίου",
+          "t": "Holy",
+          "tl": "Hagiou",
+          "s": "40",
+          "m": "Adj-GNS"
+        }
+      ],
+      [
+        {
+          "o": "οὗ",
+          "t": "whom",
+          "tl": "hou",
+          "s": "3739",
+          "m": "RelPro-GNS"
+        },
+        {
+          "o": "ἐξέχεεν",
+          "t": "He poured out",
+          "tl": "execheen",
+          "s": "1632",
+          "m": "V-AIA-3S"
+        },
+        {
+          "o": "ἐφ’",
+          "t": "on",
+          "tl": "eph’",
+          "s": "1909",
+          "m": "Prep"
+        },
+        {
+          "o": "ἡμᾶς",
+          "t": "us",
+          "tl": "hēmas",
+          "s": "1473",
+          "m": "PPro-A1P"
+        },
+        {
+          "o": "πλουσίως",
+          "t": "richly",
+          "tl": "plousiōs",
+          "s": "4146",
+          "m": "Adv"
+        },
+        {
+          "o": "διὰ",
+          "t": "through",
+          "tl": "dia",
+          "s": "1223",
+          "m": "Prep"
+        },
+        {
+          "o": "Ἰησοῦ",
+          "t": "Jesus",
+          "tl": "Iēsou",
+          "s": "2424",
+          "m": "N-GMS"
+        },
+        {
+          "o": "Χριστοῦ",
+          "t": "Christ",
+          "tl": "Christou",
+          "s": "5547",
+          "m": "N-GMS"
+        },
+        {
+          "o": "τοῦ",
+          "t": "the",
+          "tl": "tou",
+          "s": "3588",
+          "m": "Art-GMS"
+        },
+        {
+          "o": "Σωτῆρος",
+          "t": "Savior",
+          "tl": "Sōtēros",
+          "s": "4990",
+          "m": "N-GMS"
+        },
+        {
+          "o": "ἡμῶν",
+          "t": "of us",
+          "tl": "hēmōn",
+          "s": "1473",
+          "m": "PPro-G1P"
+        }
+      ],
+      [
+        {
+          "o": "ἵνα",
+          "t": "so that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "δικαιωθέντες",
+          "t": "having been justified",
+          "tl": "dikaiōthentes",
+          "s": "1344",
+          "m": "V-APP-NMP"
+        },
+        {
+          "o": "τῇ",
+          "t": "-",
+          "tl": "tē",
+          "s": "3588",
+          "m": "Art-DFS"
+        },
+        {
+          "o": "ἐκείνου",
+          "t": "by that",
+          "tl": "ekeinou",
+          "s": "1565",
+          "m": "DPro-GMS"
+        },
+        {
+          "o": "χάριτι",
+          "t": "grace",
+          "tl": "chariti",
+          "s": "5485",
+          "m": "N-DFS"
+        },
+        {
+          "o": "κληρονόμοι",
+          "t": "heirs",
+          "tl": "klēronomoi",
+          "s": "2818",
+          "m": "N-NMP"
+        },
+        {
+          "o": "γενηθῶμεν",
+          "t": "we should become",
+          "tl": "genēthōmen",
+          "s": "1096",
+          "m": "V-ASP-1P"
+        },
+        {
+          "o": "κατ’",
+          "t": "according to",
+          "tl": "kat’",
+          "s": "2596",
+          "m": "Prep"
+        },
+        {
+          "o": "ἐλπίδα",
+          "t": "[the] hope",
+          "tl": "elpida",
+          "s": "1680",
+          "m": "N-AFS"
+        },
+        {
+          "o": "ζωῆς",
+          "t": "of life",
+          "tl": "zōēs",
+          "s": "2222",
+          "m": "N-GFS"
+        },
+        {
+          "o": "αἰωνίου",
+          "t": "eternal",
+          "tl": "aiōniou",
+          "s": "166",
+          "m": "Adj-GFS"
+        }
+      ],
+      [
+        {
+          "o": "Πιστὸς",
+          "t": "Trustworthy [is]",
+          "tl": "Pistos",
+          "s": "4103",
+          "m": "Adj-NMS"
+        },
+        {
+          "o": "ὁ",
+          "t": "the",
+          "tl": "ho",
+          "s": "3588",
+          "m": "Art-NMS"
+        },
+        {
+          "o": "λόγος",
+          "t": "saying",
+          "tl": "logos",
+          "s": "3056",
+          "m": "N-NMS"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "περὶ",
+          "t": "concerning",
+          "tl": "peri",
+          "s": "4012",
+          "m": "Prep"
+        },
+        {
+          "o": "τούτων",
+          "t": "these things",
+          "tl": "toutōn",
+          "s": "3778",
+          "m": "DPro-GNP"
+        },
+        {
+          "o": "βούλομαί",
+          "t": "I want",
+          "tl": "boulomai",
+          "s": "1014",
+          "m": "V-PIM/P-1S"
+        },
+        {
+          "o": "σε",
+          "t": "you",
+          "tl": "se",
+          "s": "4771",
+          "m": "PPro-A2S"
+        },
+        {
+          "o": "διαβεβαιοῦσθαι",
+          "t": "to affirm strongly",
+          "tl": "diabebaiousthai",
+          "s": "1226",
+          "m": "V-PNM/P"
+        },
+        {
+          "o": "ἵνα",
+          "t": "so that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "φροντίζωσιν",
+          "t": "may take care",
+          "tl": "phrontizōsin",
+          "s": "5431",
+          "m": "V-PSA-3P"
+        },
+        {
+          "o": "καλῶν",
+          "t": "good",
+          "tl": "kalōn",
+          "s": "2570",
+          "m": "Adj-GNP"
+        },
+        {
+          "o": "ἔργων",
+          "t": "works",
+          "tl": "ergōn",
+          "s": "2041",
+          "m": "N-GNP"
+        },
+        {
+          "o": "προΐστασθαι",
+          "t": "to be devoted to",
+          "tl": "proistasthai",
+          "s": "4291",
+          "m": "V-PNM"
+        },
+        {
+          "o": "οἱ",
+          "t": "those",
+          "tl": "hoi",
+          "s": "3588",
+          "m": "Art-NMP"
+        },
+        {
+          "o": "πεπιστευκότες",
+          "t": "believing",
+          "tl": "pepisteukotes",
+          "s": "4100",
+          "m": "V-RPA-NMP"
+        },
+        {
+          "o": "Θεῷ",
+          "t": "God",
+          "tl": "Theō",
+          "s": "2316",
+          "m": "N-DMS"
+        },
+        {
+          "o": "ταῦτά",
+          "t": "These things",
+          "tl": "tauta",
+          "s": "3778",
+          "m": "DPro-NNP"
+        },
+        {
+          "o": "ἐστιν",
+          "t": "are",
+          "tl": "estin",
+          "s": "1510",
+          "m": "V-PIA-3S"
+        },
+        {
+          "o": "καλὰ",
+          "t": "excellent",
+          "tl": "kala",
+          "s": "2570",
+          "m": "Adj-NNP"
+        },
+        {
+          "o": "ὠφέλιμα",
+          "t": "profitable",
+          "tl": "ōphelima",
+          "s": "5624",
+          "m": "Adj-NNP"
+        },
+        {
+          "o": "τοῖς",
+          "t": "-",
+          "tl": "tois",
+          "s": "3588",
+          "m": "Art-DMP"
+        },
+        {
+          "o": "ἀνθρώποις",
+          "t": "to men",
+          "tl": "anthrōpois",
+          "s": "444",
+          "m": "N-DMP"
+        }
+      ],
+      [
+        {
+          "o": "Μωρὰς",
+          "t": "Foolish",
+          "tl": "Mōras",
+          "s": "3474",
+          "m": "Adj-AFP"
+        },
+        {
+          "o": "δὲ",
+          "t": "however",
+          "tl": "de",
+          "s": "1161",
+          "m": "Conj"
+        },
+        {
+          "o": "ζητήσεις",
+          "t": "controversies",
+          "tl": "zētēseis",
+          "s": "2214",
+          "m": "N-AFP"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "γενεαλογίας",
+          "t": "genealogies",
+          "tl": "genealogias",
+          "s": "1076",
+          "m": "N-AFP"
+        },
+        {
+          "o": "ἔρεις*",
+          "t": "arguments",
+          "tl": "ereis",
+          "s": "2054",
+          "m": "N-AFP"
+        },
+        {
+          "o": "μάχας",
+          "t": "quarrels",
+          "tl": "machas",
+          "s": "3163",
+          "m": "N-AFP"
+        },
+        {
+          "o": "νομικὰς",
+          "t": "about [the] Law",
+          "tl": "nomikas",
+          "s": "3544",
+          "m": "Adj-AFP"
+        },
+        {
+          "o": "περιΐστασο",
+          "t": "avoid",
+          "tl": "periistaso",
+          "s": "4026",
+          "m": "V-PMM-2S"
+        },
+        {
+          "o": "εἰσὶν",
+          "t": "they are",
+          "tl": "eisin",
+          "s": "1510",
+          "m": "V-PIA-3P"
+        },
+        {
+          "o": "γὰρ",
+          "t": "for",
+          "tl": "gar",
+          "s": "1063",
+          "m": "Conj"
+        },
+        {
+          "o": "ἀνωφελεῖς",
+          "t": "unprofitable",
+          "tl": "anōpheleis",
+          "s": "512",
+          "m": "Adj-NFP"
+        },
+        {
+          "o": "μάταιοι",
+          "t": "worthless",
+          "tl": "mataioi",
+          "s": "3152",
+          "m": "Adj-NFP"
+        }
+      ],
+      [
+        {
+          "o": "αἱρετικὸν",
+          "t": "A factious",
+          "tl": "hairetikon",
+          "s": "141",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "ἄνθρωπον",
+          "t": "man",
+          "tl": "anthrōpon",
+          "s": "444",
+          "m": "N-AMS"
+        },
+        {
+          "o": "μετὰ",
+          "t": "after",
+          "tl": "meta",
+          "s": "3326",
+          "m": "Prep"
+        },
+        {
+          "o": "μίαν",
+          "t": "one",
+          "tl": "mian",
+          "s": "1520",
+          "m": "Adj-AFS"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "δευτέραν",
+          "t": "a second",
+          "tl": "deuteran",
+          "s": "1208",
+          "m": "Adj-AFS"
+        },
+        {
+          "o": "νουθεσίαν",
+          "t": "admonition",
+          "tl": "nouthesian",
+          "s": "3559",
+          "m": "N-AFS"
+        },
+        {
+          "o": "παραιτοῦ",
+          "t": "reject",
+          "tl": "paraitou",
+          "s": "3868",
+          "m": "V-PMM/P-2S"
+        }
+      ],
+      [
+        {
+          "o": "εἰδὼς",
+          "t": "knowing",
+          "tl": "eidōs",
+          "s": "1492",
+          "m": "V-RPA-NMS"
+        },
+        {
+          "o": "ὅτι",
+          "t": "that",
+          "tl": "hoti",
+          "s": "3754",
+          "m": "Conj"
+        },
+        {
+          "o": "ἐξέστραπται",
+          "t": "is corrupt",
+          "tl": "exestraptai",
+          "s": "1612",
+          "m": "V-RIM/P-3S"
+        },
+        {
+          "o": "ὁ",
+          "t": "-",
+          "tl": "ho",
+          "s": "3588",
+          "m": "Art-NMS"
+        },
+        {
+          "o": "τοιοῦτος",
+          "t": "such a man",
+          "tl": "toioutos",
+          "s": "5108",
+          "m": "DPro-NMS"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "ἁμαρτάνει",
+          "t": "is sinning",
+          "tl": "hamartanei",
+          "s": "264",
+          "m": "V-PIA-3S"
+        },
+        {
+          "o": "ὢν",
+          "t": "being",
+          "tl": "ōn",
+          "s": "1510",
+          "m": "V-PPA-NMS"
+        },
+        {
+          "o": "αὐτοκατάκριτος",
+          "t": "self-condemned",
+          "tl": "autokatakritos",
+          "s": "843",
+          "m": "Adj-NMS"
+        }
+      ],
+      [
+        {
+          "o": "Ὅταν",
+          "t": "When",
+          "tl": "Hotan",
+          "s": "3752",
+          "m": "Conj"
+        },
+        {
+          "o": "πέμψω",
+          "t": "I shall send",
+          "tl": "pempsō",
+          "s": "3992",
+          "m": "V-ASA-1S"
+        },
+        {
+          "o": "Ἀρτεμᾶν",
+          "t": "Artemas",
+          "tl": "Arteman",
+          "s": "734",
+          "m": "N-AMS"
+        },
+        {
+          "o": "πρὸς",
+          "t": "to",
+          "tl": "pros",
+          "s": "4314",
+          "m": "Prep"
+        },
+        {
+          "o": "σὲ",
+          "t": "you",
+          "tl": "se",
+          "s": "4771",
+          "m": "PPro-A2S"
+        },
+        {
+          "o": "ἢ",
+          "t": "or",
+          "tl": "ē",
+          "s": "2228",
+          "m": "Conj"
+        },
+        {
+          "o": "Τυχικόν",
+          "t": "Tychicus",
+          "tl": "Tychikon",
+          "s": "5190",
+          "m": "N-AMS"
+        },
+        {
+          "o": "σπούδασον",
+          "t": "be diligent",
+          "tl": "spoudason",
+          "s": "4704",
+          "m": "V-AMA-2S"
+        },
+        {
+          "o": "ἐλθεῖν",
+          "t": "to come",
+          "tl": "elthein",
+          "s": "2064",
+          "m": "V-ANA"
+        },
+        {
+          "o": "πρός",
+          "t": "to",
+          "tl": "pros",
+          "s": "4314",
+          "m": "Prep"
+        },
+        {
+          "o": "με",
+          "t": "me",
+          "tl": "me",
+          "s": "1473",
+          "m": "PPro-A1S"
+        },
+        {
+          "o": "εἰς",
+          "t": "into",
+          "tl": "eis",
+          "s": "1519",
+          "m": "Prep"
+        },
+        {
+          "o": "Νικόπολιν",
+          "t": "Nicopolis",
+          "tl": "Nikopolin",
+          "s": "3533",
+          "m": "N-AFS"
+        },
+        {
+          "o": "ἐκεῖ",
+          "t": "there",
+          "tl": "ekei",
+          "s": "1563",
+          "m": "Adv"
+        },
+        {
+          "o": "γὰρ",
+          "t": "for",
+          "tl": "gar",
+          "s": "1063",
+          "m": "Conj"
+        },
+        {
+          "o": "κέκρικα",
+          "t": "I have decided",
+          "tl": "kekrika",
+          "s": "2919",
+          "m": "V-RIA-1S"
+        },
+        {
+          "o": "παραχειμάσαι",
+          "t": "to winter",
+          "tl": "paracheimasai",
+          "s": "3914",
+          "m": "V-ANA"
+        }
+      ],
+      [
+        {
+          "o": "Ζηνᾶν",
+          "t": "Zenas",
+          "tl": "Zēnan",
+          "s": "2211",
+          "m": "N-AMS"
+        },
+        {
+          "o": "τὸν",
+          "t": "the",
+          "tl": "ton",
+          "s": "3588",
+          "m": "Art-AMS"
+        },
+        {
+          "o": "νομικὸν",
+          "t": "lawyer",
+          "tl": "nomikon",
+          "s": "3544",
+          "m": "Adj-AMS"
+        },
+        {
+          "o": "καὶ",
+          "t": "and",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "Ἀπολλῶν",
+          "t": "Apollos",
+          "tl": "Apollōn",
+          "s": "625",
+          "m": "N-AMS"
+        },
+        {
+          "o": "σπουδαίως",
+          "t": "earnestly",
+          "tl": "spoudaiōs",
+          "s": "4709",
+          "m": "Adv"
+        },
+        {
+          "o": "πρόπεμψον",
+          "t": "equip",
+          "tl": "propempson",
+          "s": "4311",
+          "m": "V-AMA-2S"
+        },
+        {
+          "o": "ἵνα",
+          "t": "so that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "μηδὲν",
+          "t": "nothing",
+          "tl": "mēden",
+          "s": "3367",
+          "m": "Adj-NNS"
+        },
+        {
+          "o": "αὐτοῖς",
+          "t": "to them",
+          "tl": "autois",
+          "s": "846",
+          "m": "PPro-DM3P"
+        },
+        {
+          "o": "λείπῃ",
+          "t": "should be lacking",
+          "tl": "leipē",
+          "s": "3007",
+          "m": "V-PSA-3S"
+        }
+      ],
+      [
+        {
+          "o": "μανθανέτωσαν",
+          "t": "Let learn",
+          "tl": "manthanetōsan",
+          "s": "3129",
+          "m": "V-PMA-3P"
+        },
+        {
+          "o": "δὲ",
+          "t": "now",
+          "tl": "de",
+          "s": "1161",
+          "m": "Conj"
+        },
+        {
+          "o": "καὶ",
+          "t": "also",
+          "tl": "kai",
+          "s": "2532",
+          "m": "Conj"
+        },
+        {
+          "o": "οἱ",
+          "t": "-",
+          "tl": "hoi",
+          "s": "3588",
+          "m": "Art-NMP"
+        },
+        {
+          "o": "ἡμέτεροι",
+          "t": "our [people]",
+          "tl": "hēmeteroi",
+          "s": "2251",
+          "m": "PPro-NM1P"
+        },
+        {
+          "o": "καλῶν",
+          "t": "good",
+          "tl": "kalōn",
+          "s": "2570",
+          "m": "Adj-GNP"
+        },
+        {
+          "o": "ἔργων",
+          "t": "works",
+          "tl": "ergōn",
+          "s": "2041",
+          "m": "N-GNP"
+        },
+        {
+          "o": "προΐστασθαι",
+          "t": "to devote themselves to",
+          "tl": "proistasthai",
+          "s": "4291",
+          "m": "V-PNM"
+        },
+        {
+          "o": "εἰς",
+          "t": "for",
+          "tl": "eis",
+          "s": "1519",
+          "m": "Prep"
+        },
+        {
+          "o": "τὰς",
+          "t": "-",
+          "tl": "tas",
+          "s": "3588",
+          "m": "Art-AFP"
+        },
+        {
+          "o": "ἀναγκαίας",
+          "t": "necessary",
+          "tl": "anankaias",
+          "s": "316",
+          "m": "Adj-AFP"
+        },
+        {
+          "o": "χρείας",
+          "t": "needs",
+          "tl": "chreias",
+          "s": "5532",
+          "m": "N-AFP"
+        },
+        {
+          "o": "ἵνα",
+          "t": "so that",
+          "tl": "hina",
+          "s": "2443",
+          "m": "Conj"
+        },
+        {
+          "o": "μὴ",
+          "t": "not",
+          "tl": "mē",
+          "s": "3361",
+          "m": "Adv"
+        },
+        {
+          "o": "ὦσιν",
+          "t": "they should be",
+          "tl": "ōsin",
+          "s": "1510",
+          "m": "V-PSA-3P"
+        },
+        {
+          "o": "ἄκαρποι",
+          "t": "unfruitful",
+          "tl": "akarpoi",
+          "s": "175",
+          "m": "Adj-NMP"
+        }
+      ],
+      [
+        {
+          "o": "Ἀσπάζονταί",
+          "t": "Greet",
+          "tl": "Aspazontai",
+          "s": "782",
+          "m": "V-PIM/P-3P"
+        },
+        {
+          "o": "σε",
+          "t": "you",
+          "tl": "se",
+          "s": "4771",
+          "m": "PPro-A2S"
+        },
+        {
+          "o": "οἱ",
+          "t": "those",
+          "tl": "hoi",
+          "s": "3588",
+          "m": "Art-NMP"
+        },
+        {
+          "o": "μετ’",
+          "t": "with",
+          "tl": "met’",
+          "s": "3326",
+          "m": "Prep"
+        },
+        {
+          "o": "ἐμοῦ",
+          "t": "me",
+          "tl": "emou",
+          "s": "1473",
+          "m": "PPro-G1S"
+        },
+        {
+          "o": "πάντες",
+          "t": "all",
+          "tl": "pantes",
+          "s": "3956",
+          "m": "Adj-NMP"
+        },
+        {
+          "o": "Ἄσπασαι",
+          "t": "Greet",
+          "tl": "Aspasai",
+          "s": "782",
+          "m": "V-AMM-2S"
+        },
+        {
+          "o": "τοὺς",
+          "t": "those",
+          "tl": "tous",
+          "s": "3588",
+          "m": "Art-AMP"
+        },
+        {
+          "o": "φιλοῦντας",
+          "t": "loving",
+          "tl": "philountas",
+          "s": "5368",
+          "m": "V-PPA-AMP"
+        },
+        {
+          "o": "ἡμᾶς",
+          "t": "us",
+          "tl": "hēmas",
+          "s": "1473",
+          "m": "PPro-A1P"
+        },
+        {
+          "o": "ἐν",
+          "t": "in",
+          "tl": "en",
+          "s": "1722",
+          "m": "Prep"
+        },
+        {
+          "o": "πίστει",
+          "t": "[the] faith",
+          "tl": "pistei",
+          "s": "4102",
+          "m": "N-DFS"
+        },
+        {
+          "o": "Ἡ",
+          "t": "-",
+          "tl": "Hē",
+          "s": "3588",
+          "m": "Art-NFS"
+        },
+        {
+          "o": "χάρις",
+          "t": "Grace [be]",
+          "tl": "charis",
+          "s": "5485",
+          "m": "N-NFS"
+        },
+        {
+          "o": "μετὰ",
+          "t": "with",
+          "tl": "meta",
+          "s": "3326",
+          "m": "Prep"
+        },
+        {
+          "o": "πάντων",
+          "t": "all",
+          "tl": "pantōn",
+          "s": "3956",
+          "m": "Adj-GMP"
+        },
+        {
+          "o": "ὑμῶν",
+          "t": "of you",
+          "tl": "hymōn",
+          "s": "4771",
+          "m": "PPro-G2P"
+        },
+        {
+          "o": "⧼Ἀμήν⧽",
+          "t": "Amen",
+          "tl": "Amēn",
+          "s": "281",
+          "m": "Heb"
+        }
+      ]
+    ]
+  ]
+}
